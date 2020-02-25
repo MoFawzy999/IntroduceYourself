@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntroduceYourself</string>
+    <string-array name="My_Data">
+        <item>Name:Mohamed Fawzy Sayed</item>
+        <item>Address:9/11 El Daher ST</item>
+        <item>Age:21</item>
+        <item>Education: Undergraduated at Sadat Academy</item>
+        <item>JOB : I am still a student</item>
+        <item>Courses: Android Developer at RCC</item>
+        <item>Skills: Android using:java-JSON-Retrofit-fragment-Recyclerview-SQLLite-MVVM-Thread
+            and DataBase using:MySQL
+        </item>
+    </string-array>
+
+
+</resources>
